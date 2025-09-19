@@ -103,14 +103,14 @@
 
 .cover__description{
     display:flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items:baseline;
-    padding: 51px 0;
+    padding: 51px 50px;
     font-size: 22px;
 }
 
 .cover__description-text{
-    word-spacing: 18px;
+    word-spacing: 19px;
 }
 
 .bet-button{
